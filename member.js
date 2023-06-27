@@ -11,3 +11,4 @@ function skillMember()
         document.getElementById("skill").style.display = "none";
     }
 }
+
